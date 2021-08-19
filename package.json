@@ -14,5 +14,18 @@
     "styled-components": "^5.3.0",
     "styled-normalize": "^8.0.7",
     "react-icons": "^4.2.0"
-  }
+  },
+  "description": "![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genius2k21/Updated_Portfolio_Page_JMB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genius2k21/Updated_Portfolio_Page_JMB/issues"
+  },
+  "homepage": "https://github.com/Genius2k21/Updated_Portfolio_Page_JMB#readme"
 }
